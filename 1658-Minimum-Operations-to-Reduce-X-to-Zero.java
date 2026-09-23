@@ -41,3 +41,5 @@ class Solution {
         }
 
         return maxLength == -1 ? -1 : n - maxLength;
+    }
+}
